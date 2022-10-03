@@ -12,6 +12,4 @@ Sign On Testers’ Doors
 Do not disturb. Already disturbed!
 Lorem ipsum dolor sit amet
 
-
-**GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests.
-**
+just trying to fidure out how this thing works))
